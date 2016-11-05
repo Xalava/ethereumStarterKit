@@ -1,0 +1,10 @@
+
+Les comptes
+
+xavier 0x07d3eAd725B9Dcc43A65393A8491348F315b9eF8
+benoit 0xfD74c00B02177B5a73512EbcbD7eBDcAce10dCc8
+mineur 0x64eD936be8e205D999021cF80a8141b54eb9ADc6
+lds  0x944DE8f9211A3870e3579D14931c9E8D90b08349
+
+
+geth --networkid "4768"  --datadir "######/data4" --ipcpath "#####/.ethereum/geth.ipc"
